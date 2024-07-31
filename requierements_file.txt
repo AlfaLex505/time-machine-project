@@ -1,5 +1,7 @@
 This file pretends to list everything the project must do.
 
-- The images must/videos organized automatically on a folder that represents the date in which they were taken.
+- The images must/videos organized automatically on a folder that represents 
+the date in which they were taken.
 - The program must initialize itslef if a reboot take place.
-- Create a bash script for setting the crontabs and everything necessary for running the time machine project.
+- Create a bash script for setting the crontabs and everything necessary for 
+running the time machine project.
